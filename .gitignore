@@ -1,7 +1,0 @@
-/.env
-/.vscode
-/config/*
-/data/*
-/logs/*
-.DS_Store
-/buildtest
